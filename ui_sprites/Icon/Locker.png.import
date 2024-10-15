@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqsx64dbf5s2w"
-path="res://.godot/imported/deep_ball.png-a7883d8958f65a9dcd99c9c2b02ae5fd.ctex"
+uid="uid://dr2ot5u1nvftu"
+path="res://.godot/imported/Locker.png-2f6423107cba3f5f79fc6e6268748fb2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/deep/deep_ball.png"
-dest_files=["res://.godot/imported/deep_ball.png-a7883d8958f65a9dcd99c9c2b02ae5fd.ctex"]
+source_file="res://ui_sprites/Icon/Locker.png"
+dest_files=["res://.godot/imported/Locker.png-2f6423107cba3f5f79fc6e6268748fb2.ctex"]
 
 [params]
 

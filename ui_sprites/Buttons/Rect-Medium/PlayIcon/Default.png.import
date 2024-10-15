@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2s1fpxwg3ovp"
-path="res://.godot/imported/deep_0.png-d65b59f39064ac03a1f4edd40e15c9bf.ctex"
+uid="uid://dytj8ugo48u5d"
+path="res://.godot/imported/Default.png-28f8f49a945d01444a4701d60c83e4ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/deep/deep_0.png"
-dest_files=["res://.godot/imported/deep_0.png-d65b59f39064ac03a1f4edd40e15c9bf.ctex"]
+source_file="res://ui_sprites/Buttons/Rect-Medium/PlayIcon/Default.png"
+dest_files=["res://.godot/imported/Default.png-28f8f49a945d01444a4701d60c83e4ad.ctex"]
 
 [params]
 

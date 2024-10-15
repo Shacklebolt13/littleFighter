@@ -1,9 +1,9 @@
 [gd_scene load_steps=74 format=3 uid="uid://becq73btnra44"]
 
 [ext_resource type="Script" path="res://characters/deep/deep.gd" id="1_1u6x7"]
-[ext_resource type="Texture2D" uid="uid://c2s1fpxwg3ovp" path="res://sprites/deep/deep_0.png" id="1_q7k5t"]
-[ext_resource type="Texture2D" uid="uid://dee6kecyy0ddb" path="res://sprites/deep/deep_1.png" id="3_t4hm2"]
-[ext_resource type="Texture2D" uid="uid://b2r7mnhn1socu" path="res://sprites/deep/deep_2.png" id="4_7g6w2"]
+[ext_resource type="Texture2D" uid="uid://c2s1fpxwg3ovp" path="res://character_sprites/deep/deep_0.png" id="1_q7k5t"]
+[ext_resource type="Texture2D" uid="uid://dee6kecyy0ddb" path="res://character_sprites/deep/deep_1.png" id="3_t4hm2"]
+[ext_resource type="Texture2D" uid="uid://b2r7mnhn1socu" path="res://character_sprites/deep/deep_2.png" id="4_7g6w2"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_xclx0"]
 atlas = ExtResource("1_q7k5t")

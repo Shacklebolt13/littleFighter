@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dee6kecyy0ddb"
-path="res://.godot/imported/deep_1.png-08d23607f149e9c71d8d21bfda68e769.ctex"
+uid="uid://cc8u4uds5plis"
+path="res://.godot/imported/Unactive.png-c54296fe9680d007a3b8d91b8247d2a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/deep/deep_1.png"
-dest_files=["res://.godot/imported/deep_1.png-08d23607f149e9c71d8d21bfda68e769.ctex"]
+source_file="res://ui_sprites/Star/Medium/Unactive.png"
+dest_files=["res://.godot/imported/Unactive.png-c54296fe9680d007a3b8d91b8247d2a4.ctex"]
 
 [params]
 
