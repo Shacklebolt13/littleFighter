@@ -8,6 +8,10 @@
 
 config_version=5
 
+[LittleFighter]
+
+config/ninetailsrabbit.fsm/update_notification_enabled=true
+
 [application]
 
 config/name="LittleFighter"
@@ -26,6 +30,10 @@ window/size/window_height_override=540
 
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ninetailsrabbit.fsm/plugin.cfg")
 
 [rendering]
 
